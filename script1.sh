@@ -7,3 +7,5 @@ then
 else
 	echo " $file_name is not found "
 fi
+echo " this file is good "
+
