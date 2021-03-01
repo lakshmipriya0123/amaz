@@ -7,4 +7,4 @@ then
 else
 	echo  " age is not valid "
 fi
- 
+ echo " Writing shell script is good "
